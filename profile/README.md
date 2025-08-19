@@ -58,16 +58,14 @@ Autónoma de Santo Domingo (UASD)
   se habrá creado, y te pedirá que ingreses a ella usando nombre de
   usuario (o correo electrónico) y contraseña. Cuando termines, **no
   olvides notifícame tu nombre de usuario**, ya sea por correo
-  electrónico o por el foro. Te adelanto que necesitarás un tóken de
-  GitHub, el cual crearás en la práctica de desarrollo 1 (PD01), cuyas
-  instrucciones se encuentran en un vídeo que compartiré oportunamente.
+  electrónico o por el foro.
 
 - Otras cuentas recomendadas: ChatGPT o DeepSeek o Gemini (AI Studio de
   Google), Google Earth Engine, GBIF.
 
 ## Presentaciones de diapositivas
 
-- [Bienvenida]()
+- [Bienvenida](https://biogeografia-master.github.io/bienvenida/bienvenida.html)
 
 ## Prácticas de aula
 
