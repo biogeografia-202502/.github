@@ -67,6 +67,10 @@ Autónoma de Santo Domingo (UASD)
 
 - [Bienvenida](https://biogeografia-master.github.io/bienvenida/bienvenida.html)
 
+- [Unidad 1. Fundamentos, contexto de la biogeografía y repaso de
+  ecología
+  numérica](https://biogeografia-master.github.io/fundamentos-conceptos-repaso-ecologia-numerica/presentacion.html)
+
 ## Prácticas de aula
 
 - PA00. Cuentas y servicios que usarás.
