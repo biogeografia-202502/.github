@@ -49,6 +49,8 @@ invisible(dev.off())
   
 - [PA01. Matriz de distancias](https://github.com/biogeografia-master/matriz-de-distancias). Plazo de entrega: 26 de agosto, 2025, 3:59 pm. (las prácticas de aula comúnmente se entregarán en el aula, pero esta, por ser la primera, la dejaré con un plazo de entrega mayor).
 
+- [PA02. Técnicas de ecología numérica con *datasets* de R](https://github.com/biogeografia-master/tecnicas-ecologia-numerica-con-datasets-de-r). Plazo de entrega: 2 de septiembre, 2025, 7:59 pm.
+
 <!-- - [PA02. Inferencia estadística a partir de dos muestras independientes usando datos biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria). Plazo de entrega: en el aula, 11 de febrero, 2025, 7:59 pm. -->
 
 <!-- - [PA03. Agrupar provincias según su riqueza relativa de especies por géneros de Bromeliaceae](https://github.com/biogeografia-master/agrupamiento-por-riqueza). Plazo de entrega: 4 de marzo, 2024, 7:59 pm. -->
