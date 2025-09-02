@@ -71,6 +71,9 @@ Autónoma de Santo Domingo (UASD)
   ecología
   numérica](https://biogeografia-master.github.io/fundamentos-conceptos-repaso-ecologia-numerica/presentacion.html)
 
+- [“Unidad 2. La “plantilla” geográfica: factores físicos y
+  ambientales”](https://biogeografia-master.github.io/plantilla-geografica-factores-fisicos-ambientales/README.html)
+
 ## Prácticas de aula
 
 - PA00. Cuentas y servicios que usarás.
