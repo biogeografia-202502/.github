@@ -88,10 +88,18 @@ Autónoma de Santo Domingo (UASD)
   R](https://github.com/biogeografia-master/tecnicas-ecologia-numerica-con-datasets-de-r).
   Plazo de entrega: 2 de septiembre, 2025, 7:59 pm.
 
-<!-- - [PA02. Inferencia estadística a partir de dos muestras independientes usando datos biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria). Plazo de entrega: en el aula, 11 de febrero, 2025, 7:59 pm. -->
+- [PA03. Inferencia estadística a partir de dos muestras independientes
+  usando datos
+  biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria).
+  Plazo de entrega: en el aula, 9 de septiembre, 2025, 7:59 pm.
+
 <!-- - [PA03. Agrupar provincias según su riqueza relativa de especies por géneros de Bromeliaceae](https://github.com/biogeografia-master/agrupamiento-por-riqueza). Plazo de entrega: 4 de marzo, 2024, 7:59 pm. -->
 <!-- - [PA04: Análisis Exploratorio de Datos (AED) y Paradoja de Orlócy](https://github.com/biogeografia-master/aed-transformaciones-orlocy). Plazo de entrega: 17 de marzo, 2025, 11:59 pm. -->
-<!-- - [PA05: Medio físico, variables ambientales, correlación y regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales). Plazo de entrega: 7 de abril de 2025, 11:59 pm. -->
+
+- [PA04: Medio físico, variables ambientales, correlación y
+  regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales).
+  Plazo de entrega: 15 de septiembre de 2025, 11:59 pm.
+
 <!-- - [PA06: Distribución de especies, patrones de distribución por simple inspección](https://github.com/biogeografia-master/patrones-distribucion-simple-inspeccion). Plazo de entrega: 28 de octubre de 2025, 11:59 pm. -->
 <!-- - [PA07: Distribución de especies en la bibliografía](https://github.com/biogeografia-master/distribucion-de-especies-en-bibliografia). Plazo de entrega: 15 de octubre de 2024, 7:59 pm. -->
 <!-- - [PA08: Distribución de comunidades en la bibliografía](https://github.com/biogeografia-master/distribucion-de-comunidades-en-bibliografia). Plazo de entrega: 29 de octubre de 2024, 7:59 pm. -->
@@ -99,8 +107,18 @@ Autónoma de Santo Domingo (UASD)
 
 ## Tutoriales interactivos
 
-<!-- - [Introducción a R](https://geofis.shinyapps.io/tutorial1/). Este tutorial te ayudará mucho a comprender algo de código de R. Te será de utilidad para comprender lo básico del código que usarás en la PD01 y en la PD02. Puedes usar también este código QR para acceder al tutorial: -->
-<!-- ![Accede con este QR al tutorial interactivo "Introducción a R"](qr-tutorial1.jpg) -->
+- [Introducción a R](https://geofis.shinyapps.io/tutorial1/). Este
+  tutorial te ayudará mucho a comprender algo de código de R. Te será de
+  utilidad para comprender lo básico del código que usarás en la PD01 y
+  en la PD02. Puedes usar también este código QR para acceder al
+  tutorial:
+
+<figure>
+<img src="qr-tutorial1.jpg"
+alt="Accede con este QR al tutorial interactivo “Introducción a R”" />
+<figcaption aria-hidden="true">Accede con este QR al tutorial
+interactivo “Introducción a R”</figcaption>
+</figure>
 
 ## Prácticas de desarrollo
 
