@@ -74,6 +74,9 @@ Autónoma de Santo Domingo (UASD)
 - [“Unidad 2. La “plantilla” geográfica: factores físicos y
   ambientales”](https://biogeografia-master.github.io/plantilla-geografica-factores-fisicos-ambientales/README.html)
 
+- [“Unidad 3. Unidad 3. Distribución, dinámica y evolución de la
+  biodiversidad”](https://biogeografia-master.github.io/distribucion-dinamica-evolucion-biodiversidad/README.html#1)
+
 ## Prácticas de aula
 
 - PA00. Cuentas y servicios que usarás.
