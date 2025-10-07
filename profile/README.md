@@ -103,6 +103,13 @@ Autónoma de Santo Domingo (UASD)
   regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales).
   Plazo de entrega: 15 de septiembre de 2025, 11:59 pm.
 
+- [PA05. Modelos de distribución de especies (SDM) por medio de
+  aprendizaje automático (*machine
+  learning*)](https://classroom.github.com/a/bo9X7ufl) (acepta la
+  práctica haciendo clic en el enlace). Plazo de entrega: 20 de octubre,
+  2025, 11:59 pm. [Vídeo
+  tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link).
+
 <!-- - [PA06: Distribución de especies, patrones de distribución por simple inspección](https://github.com/biogeografia-master/patrones-distribucion-simple-inspeccion). Plazo de entrega: 28 de octubre de 2025, 11:59 pm. -->
 <!-- - [PA07: Distribución de especies en la bibliografía](https://github.com/biogeografia-master/distribucion-de-especies-en-bibliografia). Plazo de entrega: 15 de octubre de 2024, 7:59 pm. -->
 <!-- - [PA08: Distribución de comunidades en la bibliografía](https://github.com/biogeografia-master/distribucion-de-comunidades-en-bibliografia). Plazo de entrega: 29 de octubre de 2024, 7:59 pm. -->
@@ -128,7 +135,14 @@ interactivo “Introducción a R”</figcaption>
 <!-- - [PD01. Hola Mundo](https://classroom.github.com/a/Bg7jw4W9). Plazo de entrega: 17 de febrero, 2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `biogeografia-202501` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje para invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link). -->
 <!-- - [PD02. Técnicas de ecología numérica, reproducibilidad](https://classroom.github.com/a/MvOiH8vb) (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 16 de marzo, 2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `biogeografia-202501` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub (repasa el tutorial de la PD01 si tuvieses problemas al aceptar la práctica). Los vídeos tutoriales sobre cómo realizar esta práctica están indicados en el mandato (README) y en el ejemplo de análisis (archivo legible `ejemplo-de-analisis.html`). -->
 <!-- - [PD03. Introducción a Python](https://classroom.github.com/a/lT282gkM) (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 28 de abril, 2025, 11:59 pm. -->
-<!-- - [PD04. Modelos de distribución de especies (SDM) por medio de aprendizaje automático (*machine learning*)](https://classroom.github.com/a/EfiUCWhM) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 12 de mayo, 2025, 11:59 pm. [Vídeo tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link). -->
 <!-- - [PD05. Introducción a QGIS, diseño de muestreo espacial estratificado](https://classroom.github.com/a/mkvXeHXY) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 26 de noviembre, 2024, 11:59 pm. [Vídeo tutorial para el ejercicio 5 (pone "Práctica 4" en el vídeo, pero te valdrá igualmente)](https://drive.google.com/file/d/1k6IotOHj6fUkyfi4rSBK6d320TY45KED/view). -->
 
-## Proyecto
+## Proyecto de investigación
+
+- [Proyecto de investigación. Tu tema, tu investigación. Biogeografía
+  (GEO-131). Universidad Autónoma de Santo Domingo (UASD). Semestre
+  2025-02](https://classroom.github.com/a/ZCozbnjD). Plazo de entrega:
+  23 de diciembre, 2025, 11:59 pm. Este vídeo, aunque explica una
+  práctica relacionada, podría servirte para comprender cómo usar el
+  cuaderno RMarkdown: [Vídeo tutorial “PD01. Hola
+  Mundo”](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
